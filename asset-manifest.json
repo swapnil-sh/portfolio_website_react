@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio_website_react/static/css/main.7d69943a.css",
-    "main.js": "/portfolio_website_react/static/js/main.d20c64fa.js",
+    "main.css": "/portfolio_website_react/static/css/main.fcaf8e56.css",
+    "main.js": "/portfolio_website_react/static/js/main.c7033ef6.js",
     "static/media/me_about.jpg": "/portfolio_website_react/static/media/me_about.ebf79f523c6c2e44d699.jpg",
     "static/media/blackbg.jpg": "/portfolio_website_react/static/media/blackbg.234b729a0bde2839c1cb.jpg",
     "static/media/pf.jpeg": "/portfolio_website_react/static/media/pf.2057eb096f46380ee9da.jpeg",
@@ -13,12 +13,14 @@
     "static/media/SDEII_SwapnilSharma.pdf": "/portfolio_website_react/static/media/SDEII_SwapnilSharma.f3b575b6e6e773ff9116.pdf",
     "static/media/portfolio4.jpg": "/portfolio_website_react/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/bg6.jpg": "/portfolio_website_react/static/media/bg6.696d3df60a30bb206178.jpg",
+    "static/media/Avatar2.svg": "/portfolio_website_react/static/media/Avatar2.bc8c56ad7f01f176fe5bd80825c2e02b.svg",
+    "static/media/Avatar1.svg": "/portfolio_website_react/static/media/Avatar1.28eca4dd22bb64deda00ac4683a9fd31.svg",
     "index.html": "/portfolio_website_react/index.html",
-    "main.7d69943a.css.map": "/portfolio_website_react/static/css/main.7d69943a.css.map",
-    "main.d20c64fa.js.map": "/portfolio_website_react/static/js/main.d20c64fa.js.map"
+    "main.fcaf8e56.css.map": "/portfolio_website_react/static/css/main.fcaf8e56.css.map",
+    "main.c7033ef6.js.map": "/portfolio_website_react/static/js/main.c7033ef6.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d69943a.css",
-    "static/js/main.d20c64fa.js"
+    "static/css/main.fcaf8e56.css",
+    "static/js/main.c7033ef6.js"
   ]
 }
