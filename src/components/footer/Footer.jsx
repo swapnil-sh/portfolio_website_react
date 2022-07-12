@@ -16,14 +16,14 @@ const Footer = () => {
         <li><a href='#experience'>Experience</a></li>
         <li><a href='#services'>Service</a></li>
         <li><a href='#portfolio'>Projects</a></li>
-        <li><a href='#testimonials'>testimonials</a></li>
+        <li><a href='#testimonials'>Testimonials</a></li>
         <li><a href='#contact'>Contact</a></li>
       </ul>
 
       <div className='footer__socials'>
-        <a href='https://facebook.com'><FaFacebookF /></a>
-        <a href='https://linkedin.com'><FiLinkedin /></a>
-        <a href='https://twitter.com'><IoLogoTwitter /></a>
+        <a href='https://facebook.com' target='_blank'><FaFacebookF /></a>
+        <a href='https://www.linkedin.com/in/swapnil-sh' target='_blank'><FiLinkedin /></a>
+        <a href='https://twitter.com/SwapnilSharma18' target='_blank'><IoLogoTwitter /></a>
       </div>
 
       <div className="footer__copyright">

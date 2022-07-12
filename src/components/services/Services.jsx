@@ -45,7 +45,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Reach out to me on topmate.io to connect with me for free.</p>
+              <p>Reach out to me on <a href='https://topmate.io/swapnil_sharma' target='_blank'>Topmate.io</a> to connect with me for free.</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>

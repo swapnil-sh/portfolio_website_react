@@ -23,6 +23,7 @@
   overflow: hidden;
   transform: rotate(10deg);
   transition: var(--transition);
+  margin-bottom: 3rem;
 }
 
 .about__me-image:hover {
@@ -57,7 +58,7 @@
 }
 
 .about__card h5 {
-  font-size: 0.5rem;
+  font-size: 0.8rem;
 }
 
 .about__card small {

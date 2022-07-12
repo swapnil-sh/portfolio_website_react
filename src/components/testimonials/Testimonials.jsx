@@ -1,9 +1,7 @@
 import React from 'react'
 import './testimonials.css'
-import AVTR1 from '../../assets/avatar1.jpg'
-import AVTR2 from '../../assets/avatar2.jpg'
-import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar4.jpg'
+import AVTR1 from '../../assets/Avatar1.svg'
+import AVTR2 from '../../assets/Avatar2.svg'
 
 import { Pagination } from 'swiper';
 
@@ -16,22 +14,22 @@ import 'swiper/css/pagination';
 const data = [
   {
     avatar: AVTR1,
-    name: 'Rohan Das',
+    name: 'Rohan Das - Tech Mojo',
+    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe consectetur iste pariatur ab quos nemo molestiae rem et recusandae placeat! Obcaecati suscipit culpa eligendi at! Nemo iure cupiditate laudantium pariatur.'
+  },
+  {
+    avatar: AVTR1,
+    name: 'Sahil Kalyani - Amazon',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe consectetur iste pariatur ab quos nemo molestiae rem et recusandae placeat! Obcaecati suscipit culpa eligendi at! Nemo iure cupiditate laudantium pariatur.'
   },
   {
     avatar: AVTR2,
-    name: 'Sahil Kalyani',
+    name: 'Manasa Maragiri - Synchron',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe consectetur iste pariatur ab quos nemo molestiae rem et recusandae placeat! Obcaecati suscipit culpa eligendi at! Nemo iure cupiditate laudantium pariatur.'
   },
   {
-    avatar: AVTR3,
-    name: 'Manasa Maragiri',
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe consectetur iste pariatur ab quos nemo molestiae rem et recusandae placeat! Obcaecati suscipit culpa eligendi at! Nemo iure cupiditate laudantium pariatur.'
-  },
-  {
-    avatar: AVTR4,
-    name: 'ABhishek Lal',
+    avatar: AVTR1,
+    name: 'Abhishek Lal - Microsoft',
     review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe consectetur iste pariatur ab quos nemo molestiae rem et recusandae placeat! Obcaecati suscipit culpa eligendi at! Nemo iure cupiditate laudantium pariatur.'
   },
 ]

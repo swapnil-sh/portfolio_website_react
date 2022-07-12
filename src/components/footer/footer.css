@@ -25,6 +25,10 @@ footer a {
   margin: 0 auto 3rem;
 }
 
+.permalinks a {
+  color: var(--color-primary);
+}
+
 .footer__socials {
   display: flex;
   justify-content: center;
@@ -33,7 +37,7 @@ footer a {
 }
 
 .footer__socials a {
-  background: var(--color-bg);
+  background: var(--color-primary-variant);
   color: var(--color-white);
   padding: 0.8rem;
   border-radius: 0.7rem;
@@ -49,7 +53,9 @@ footer a {
 
 .footer__copyright {
   margin-bottom: 4rem;
-  color: var(--color-white);
+  color: yellow;
+  font-size: 1.5rem;
+  font-weight: 500;
 }
 
 /*-----------MEDIA QUERIES (SMALL DEVICES)-----------*/
